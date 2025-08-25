@@ -24,7 +24,7 @@ The following optional features are implemented:
 
 Video Walkthrough
 Here's a walkthrough of implemented required features:
-<!-- Replace this with whatever GIF tool you used! -->
+-- follow walkthrough.gif in project directory
 
 <!-- 👆🏿 Replace with the relative path to your image file -->
 Notes
